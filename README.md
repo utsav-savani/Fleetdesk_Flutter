@@ -1,8 +1,6 @@
 # Fleetdesk_Flutter
  A demo task list
 
-* For All supported devices: git@github.com:utsav-savani/nCompass_code_task.git
-
 ## Tasks Done
 
  Requirements
